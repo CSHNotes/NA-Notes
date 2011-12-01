@@ -45,7 +45,7 @@ Incremental vs Radical change
 
 ## Required Information
 
-* Optimals
+* Optimal
 * Actuals
 * Feelings of stakeholders
 * Causes
