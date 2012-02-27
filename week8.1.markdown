@@ -1,4 +1,5 @@
 # Interview Attitudes
+
 * Seek an overview
 * Seek details
 * Seek proof
@@ -7,12 +8,15 @@
 * Basic information
 
 # Process
+
 1. Prepare
 1. Conduct interview
 1. Follow up
 
 ## Process
+
 ### Interviewee
+
 * Information I need?
 * Available?
 * Tell them what you're asking
@@ -20,6 +24,7 @@
 * How do they feel about you?
 
 ### Material
+
 * Reasearch topic
 * Research interviewee
 * Make up questions
@@ -27,6 +32,7 @@
 * Anticipate answers
 
 ### First Impressions
+
 * Be observant
 * Look around the office
 * Technical or not
@@ -34,11 +40,13 @@
 * To-do lists?
 
 # Interview Types
+
 * Focused vs Unfocused
     * First interviews unfocused - open ended questions
     * Follow-ups focused - closed-ended questions
 
 # Interview Styles
+
 * Funnel-down
     * Establish big picture
     * Start with overview
@@ -48,6 +56,7 @@
     * Determine how they fit together
 
 # Starting
+
 1. Greeting
     * Eye contact
     * Handshake
@@ -63,6 +72,7 @@
     * Obtain buy-in
 
 # Question types
+
 * Open-ended questions
 * Close-ended questions
 * Rhetorical questions
@@ -75,9 +85,11 @@
 * Wrap-up question
 
 ## Wording
+
 * How you word your questions influences the response
 
 # Listening
+
 * Active listening
     * Don't just ask questions and tune out
     * Don't complete sentences
@@ -97,6 +109,7 @@
     * Sometimes words
 
 # Use Tape Recorders
+
 * Pros
     * Verbatim
     * Pay more attention
