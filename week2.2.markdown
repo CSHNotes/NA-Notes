@@ -1,7 +1,7 @@
 # Leadership Principles
 ## Principle 1
 
-Success in problem solving requires tht effort be directoed towards overcoming surmountable obstacles
+Success in problem solving requires that effort be directed towards overcoming surmountable obstacles
 
 * Something that is changeable
 * Something we can change
@@ -9,6 +9,7 @@ Success in problem solving requires tht effort be directoed towards overcoming s
 ## Principle 2
 
 Available facts should be used even when they are inadequate
+
 * All info is useful
 
 ## Principle 3
