@@ -28,6 +28,7 @@ Problem-mindedness should be increased while solution-mindedness should be minim
 ## Principle 5
 
 Disagreement can lead either to hard feelings or to innovation, depending on the discussion leadership
+
 * Be non-judgemental
 * Focus on the root of issues
 
@@ -51,10 +52,14 @@ Problem situates should be turned into choice situations
 # Brown Paper session
 # Sticky note session
 Objective
+
 * Generate ideas
 * Build on others ideas
+
 Rules
+
 * No criticism
 * Encourage quanitity
 * Be freewheeling
 * Combine and build
+
