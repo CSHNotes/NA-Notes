@@ -5,7 +5,9 @@ A subset of the population is called a *sample*.
 
 We measure the characteristics of the sample, and hope to infer about the characteristics of the population.
 
-The question is: how close are the estimates?
+The question is: how close are the estimates (inferences) likely to be?
+	In 1936, Literary Digest predicted Landon, 57% to 43% based on a
+	poll of 2.4 million people. Roosevelt won by 62% to 38%.
 
 ## Who are you trying to generalize about?
 
@@ -16,9 +18,10 @@ The question is: how close are the estimates?
 ## Sampling Types
 
 ### Convenience Sampling
+
 Non-random, but hopefully representative of the population
 
-Random sampling allows for better generalizations
+Random sampling allows for better generalizations and enables us to do some fancy math
 
 ### Systematic Sampling
 
@@ -31,17 +34,27 @@ In out population, there are 70% athletes and 30% party people. So we want to sa
 ### Cluster Sampling
 
 Unit of analysis is a naturally occurring group rather than individuals
+	e.g. : I want to know somehting about all 18 year olds in Rochester, but I don't have a list...
+	Divide the city into areas of 16 square blocks. Select area(s) at random. All 18 year olds in that
+	area are sampled.
 
 ## Bias
 
 ### Selection bias
-Select group with bias.
+
+Select group with bias. Respondents were mailed surveys based on telephone books and club memberships. The rich favored Landon; the poor, Roosevelt.
+
+The differences between characteristics of sample and those of the population is called sampling error. Largest error occurs with smallest samples.
 
 ### Non-response bias
-Upper and lower classes do not respond to surveys
+
+Upper and lower classes do not respond to surveys, so the middle class is over-represented. Generally, response rate is about 16-36% for mailed
+surveys; 75% rate for personal interviews.
 
 ### Volunteer bias
+
 More intelligent, affluent less likely to do surverys
+	High SES, need more approval, more compliant
 
 # Developing a survey
 
@@ -57,12 +70,12 @@ More intelligent, affluent less likely to do surverys
 
 # Survey tips
 
-1. Keep it short
-1. Consider visual aspects
-1. Group questions and topics
+1. Keep it short - 1 page, not more than 2
+1. Consider visual aspects (font size, whitespace)
+1. Group similar topics together
 1. Start with something interesting
 1. Start with easy items if controversial
-1. Include a purpose paragraph
+1. Include a purpose (cover) paragraph - who you are, what might be done with the data, purpose, etc.
 1. Getting attitudes
 1. Triangulating data
 1. It's questionable whether people can accurately report data about themselves at other points in time.

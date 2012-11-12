@@ -51,7 +51,7 @@
 		* One of these things is not like the other things, one of these things just doesn't belong......
 * When an accepted measure doesn't exist, create one
 * To do this, we use constructs
-	* something that may more really exist in a tangible sense, but it's useful to pretend it does.
+	* something that may not really exist in a tangible sense, but it's useful to pretend it does.
 * What are some constructs for politeness?
 	* Smiling
 	* Looking at the person you're speaking to
