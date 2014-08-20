@@ -48,14 +48,14 @@ df = 1
 
 4. You are interested in the following question: is preference for talk show host related to political orientation of the state of Texas? You randomly surveyed
 100 Texans and came up with the following results:
-	Among democrats:
-		6 like Rush Limbaugh
-		19 like Bruce Williams
-		45 like Bob Matthews
-	Among republicans:
-		14 like Rush Limbaugh
-		11 like Bruce Williams
-		5 like Bob Matthews
+    Among democrats:
+        6 like Rush Limbaugh
+        19 like Bruce Williams
+        45 like Bob Matthews
+    Among republicans:
+        14 like Rush Limbaugh
+        11 like Bruce Williams
+        5 like Bob Matthews
 Are these results statistically significant at p < .05?
 
 df=2
@@ -72,7 +72,7 @@ R    | 6     |   | 19    |   | 45    |  70
 D    | 14    |   | 11    |   | 5     |  30
      |_______|   |_______|   |_______|
      
-     	20			30			50		180
+         20            30            50        180
 
 20*70   30*70
 ----- + ----- ...
@@ -83,26 +83,26 @@ D    | 14    |   | 11    |   | 5     |  30
   14        21          35         6         9        15
 
 5. Clinton v. Dole among students
-	Create ordinals.
-	
-			 F			S			J			Sr			Gr    
-		 _________   _________   _________   _________    _________
-		 |    |18|   |    |  |   |    |  |   |    |  |    |    |  |
-	Cln  | 12    |   | 33    |   | 17    |   | 8     |    | 0     |  70
-		 |_______|   |_______|   |_______|   |_______|    |_______|
-		 _________   _________   _________   _________    _________
-		 |    |  |   |    |  |   |    |  |   |    |  |    |    |  |
-	Dole | 42    |   | 87    |   | 4     |   | 4     |    | 3     |  140
-		 |_______|   |_______|   |_______|   |_______|    |_______|
-		                                                 
-			54			120			21			12		 	  3		 210
+    Create ordinals.
+    
+             F            S            J            Sr            Gr    
+         _________   _________   _________   _________    _________
+         |    |18|   |    |  |   |    |  |   |    |  |    |    |  |
+    Cln  | 12    |   | 33    |   | 17    |   | 8     |    | 0     |  70
+         |_______|   |_______|   |_______|   |_______|    |_______|
+         _________   _________   _________   _________    _________
+         |    |  |   |    |  |   |    |  |   |    |  |    |    |  |
+    Dole | 42    |   | 87    |   | 4     |   | 4     |    | 3     |  140
+         |_______|   |_______|   |_______|   |_______|    |_______|
+                                                         
+            54            120            21            12               3         210
 
-	Ordinal calculation:
-		(54/210) * 70
-		That is:
-		for i in (Cln Dole) do
-			for j in (F S J Sr Gr) do
-				ordinal[i][j] = row[i] * (col[j] / n)
-	SHOW ALL YOUR FUCKING WORK
+    Ordinal calculation:
+        (54/210) * 70
+        That is:
+        for i in (Cln Dole) do
+            for j in (F S J Sr Gr) do
+                ordinal[i][j] = row[i] * (col[j] / n)
+    SHOW ALL YOUR FUCKING WORK
 
-NOTE: Bring a calculator to the final. Ron Perry is a dick -- he will loan you a calculator but it's an HP calculator that uses RPN.
+NOTE: Bring a calculator to the final. Ron Perry will loan you a calculator but it's an HP calculator that uses RPN.

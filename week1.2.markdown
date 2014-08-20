@@ -19,7 +19,7 @@ Gannett Post: "Information tech workers need a bag of people skills"
 
 ## Needs Assessment is...
 
-* FUCKING COMIC SANS
+* F--KING COMIC SANS
 	* EVERYWHERE
 * Data-gathering for the purpose of identifying problems or resolving discrepancies
 * Discovering the nature of the problem, its constraints, possible solutions, and an agreed upon course of action

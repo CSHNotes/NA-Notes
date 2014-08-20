@@ -2,7 +2,6 @@
 
 * Same rules as midterm
 * Designed to take 40-80 minutes
-* Monday, 12:30PM, the usual room
 
 ## Pre-midterm
 
