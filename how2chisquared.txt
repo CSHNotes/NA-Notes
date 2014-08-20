@@ -1,0 +1,108 @@
+Chi-squared examples
+
+1. You randomly asked 40 students if they support NAFTA. The results were yes 25, no 15. Is this statistically significant for p < .05
+           _________
+(B-b)²     |    |20|
+------     | 25    |
+  b        |_______|
+  
+I didn't get the rest, the answer was no.
+  
+_________________________________________________________
+
+
+2. You surveyed 200 IT students concerning life at RIT. You asked a multiple choice, forced choice question concerning, "Who is the best teacher in IT at
+RIT?" You got back the following results: Steve-60, Ron-48, Pete-50, Mike-42. Is this true that these results are statistically significant at p < .05?
+
+(B-b)²
+------
+  b
+  
+  degrees of freedom = 3 (n_choices - 1)
+
+    S           R           P           M    
+_________   _________   _________   _________
+|    |50|   |    |50|   |    |50|   |    |50|
+| 60    |   | 48    |   | 50    |   | 42    |
+|_______|   |_______|   |_______|   |_______|
+
+(60-50)²   (48-50)²   (50-50)²   (42-50)²
+-------- + -------- + -------- + -------- = 3.36
+   50         50         50         50
+
+3. You know that the population of the IT program is 80% male and 20% female. You believe that more females take the networking concentration than males.
+Reuslts from a survey gave you the following data from 100 students in the Networking concentration: 44 females, 56 males. Is this statistically significant
+at p < .05?
+
+    M           F    
+_________   _________
+|    |80|   |    |20|
+| 56    |   | 44    |
+|_______|   |_______|
+
+df = 1
+
+(56-80)²   (44-20)²
+-------- + -------- = 36
+   80         20
+
+4. You are interested in the following question: is preference for talk show host related to political orientation of the state of Texas? You randomly surveyed
+100 Texans and came up with the following results:
+    Among democrats:
+        6 like Rush Limbaugh
+        19 like Bruce Williams
+        45 like Bob Matthews
+    Among republicans:
+        14 like Rush Limbaugh
+        11 like Bruce Williams
+        5 like Bob Matthews
+Are these results statistically significant at p < .05?
+
+df=2
+
+(R-1)(C-1)
+
+         L           W           M    
+     _________   _________   _________
+     |    |14|   |    |21|   |    |35|
+R    | 6     |   | 19    |   | 45    |  70
+     |_______|   |_______|   |_______|
+     _________   _________   _________
+     |    |6 |   |    |9 |   |    |15|
+D    | 14    |   | 11    |   | 5     |  30
+     |_______|   |_______|   |_______|
+     
+         20            30            50        180
+
+20*70   30*70
+----- + ----- ...
+ 100     100
+
+(6-14)²   (19-21)²   (45-35)²   (14-6)²   (11-9)²   (5-15)²
+------- + -------- + -------- + ------- + ------- + ------- = 25.40
+  14        21          35         6         9        15
+
+5. Clinton v. Dole among students
+    Create ordinals.
+    
+             F            S            J            Sr            Gr    
+         _________   _________   _________   _________    _________
+         |    |18|   |    |  |   |    |  |   |    |  |    |    |  |
+    Cln  | 12    |   | 33    |   | 17    |   | 8     |    | 0     |  70
+         |_______|   |_______|   |_______|   |_______|    |_______|
+         _________   _________   _________   _________    _________
+         |    |  |   |    |  |   |    |  |   |    |  |    |    |  |
+    Dole | 42    |   | 87    |   | 4     |   | 4     |    | 3     |  140
+         |_______|   |_______|   |_______|   |_______|    |_______|
+                                                         
+            54            120            21            12               3         210
+
+    Ordinal calculation:
+        (54/210) * 70
+        That is:
+        for i in (Cln Dole) do
+            for j in (F S J Sr Gr) do
+                ordinal[i][j] = row[i] * (col[j] / n)
+    SHOW ALL YOUR FUCKING WORK
+
+NOTE: Bring a calculator to the final. Ron Perry will loan you a calculator but it's an HP calculator that uses RPN.

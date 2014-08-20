@@ -2,22 +2,22 @@
 
 ## Group decision making
 * Consensus
-    * Most effective, but takes most time
-    * Commitment by all members
-    * Uses resources of all members
-    * Hard to reach consensus
-    * Group make-up is poor
-    * Takes time
+    * + Most effective, but takes most time
+    * + Commitment by all members
+    * + Uses resources of all members
+    * - Hard to reach consensus
+    * - Group make-up is poor
+    * - Takes time
 * Majority Vote
-    * Good when time is lacking
-    * Not all members buy-in
+    * + Good when time is lacking
+    * - Not all members buy-in
 * Minority Vote
-    * When not everyone can meet
-    * When only a few members have resources
-    * Unresolved conflict can be a problem
-    * No buy-in or commitment
-    * Fast and easy
-    * Lost group benefits
+    * + When not everyone can meet
+    * + When only a few members have resources
+    * - Unresolved conflict can be a problem
+    * - No buy-in or commitment
+    * + Fast and easy
+    * - Lost group benefits
 
 ### Building consensus
 * Consensus seeking is the process of making decisions based on agreement of the group rather than by voting
@@ -46,10 +46,17 @@
 * Synergy
 * Creativity
 * Risk
-* Norms
-    * Group defaults and actions
-* Hidden agendas
-    * What we want to accomplish that is not discussed
+
+## Group issues
+* Norms (written or unwritten rules of conduct)
+	* Workgroup related
+		* Never start meetings on time
+		* Never argue with the facliitator
+	* Social group related
+		* Mike tells the best stories
+		* Jim always brings the donuts
+* Hidden agendas (what we want to accomplish that is not spoken to the group)
+	* Jim wants an "A" on the presentation while Mike will settle for a "C"
 * Task needs
     * Initiate ideas
     * Clarify ideas
